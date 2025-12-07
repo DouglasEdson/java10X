@@ -8,7 +8,7 @@ public class Exercicio3 {
                 "Sasuke",
                 "Sakura",
                 "Kakashi",
-                "Itachi ",
+                "Itachi",
                 "Rock Lee"
         };
         // Notas correspondentes
@@ -24,7 +24,7 @@ public class Exercicio3 {
                 System.out.println(ninjas[i] + " passou na prova com: " + notas[i] + " pontos!");
                 aprovados++;
             }else {
-                System.out.println(ninjas[i] + "foi reprovado com: " + notas[i] + " pontos!");
+                System.out.println(ninjas[i] + " foi reprovado com: " + notas[i] + " pontos!");
                 reprovados++;
             }
         }
